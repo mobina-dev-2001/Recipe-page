@@ -45,7 +45,7 @@ body {
     gap: 2rem;
     max-width: 735px;
     margin: 8rem 0;
-    padding: 2.5rem;
+    padding: 2.45rem;
     background-color: var(--white);
     border-radius: 30px;
 }
@@ -59,7 +59,7 @@ h1 {
     color: var(--stone-900);
     font-family: 'Young Serif', serif;
     font-size: 2.5rem;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 h2 {
@@ -67,7 +67,7 @@ h2 {
     color: var(--brown-800);
     font-family: 'Young Serif', serif;
     font-size: 1.75rem;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 ol,
@@ -103,8 +103,8 @@ hr {
 
 .recipe__prep-time p {
     color: var(--rose-800);
-    font-size: 1.2rem;
-    font-weight: 700;
+    font-size: 1.3rem;
+    font-weight: 600;
 }
 
 .recipe__instructions li::marker {
